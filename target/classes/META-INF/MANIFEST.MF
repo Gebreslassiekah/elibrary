@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: elibrary
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: gere
+Implementation-Vendor-Id: edu.mum.cs.cs425.demowebapps.elibrary
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/elibrary
+Created-By: Maven Integration for Eclipse
+
